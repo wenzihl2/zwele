@@ -1,0 +1,11 @@
+.menu {
+    font-size: 50px;
+    color: blue;
+    display: inline-block;
+}
+
+
+
+.contentparent {
+   display: none;
+}
